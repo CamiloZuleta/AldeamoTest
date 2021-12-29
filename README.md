@@ -10,3 +10,9 @@ Un ejemplo práctico es el siguiente:
 http://localhost:8080/bartender/3/2
 
 Con esto se da respuesta a la prueba de selección
+
+La aplicación está desplegada con heroku y se puede probar en la siguiente url:
+https://test-aldeamo-1.herokuapp.com/bartender/{Q}/{id}
+
+ejemplo:
+https://test-aldeamo-1.herokuapp.com/bartender/3/2
